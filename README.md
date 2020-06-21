@@ -12,38 +12,37 @@
 - **I. Introduction**
 
 - **II. Exploratory Data Analysis**
-
-    - 1. Sale Price
+1. Sale Price
    
-    - 2. Numerical Variables
+2. Numerical Variables
    
-    - 3. Correlations Between Numerical Features
+3. Correlations Between Numerical Features
  
 - **III. Data Preprocessing and Feature Engineering**
 
-    - 1. Missing Values
+1. Missing Values
     
-    - 2. Feature Engineering
+2. Feature Engineering
     
-        - a. Create New variables
-        - b. Label Encoding
-        - c. Numerical Variables to Factors
-        - d. Outliers
-    - 3. Skewness and Normalizing Data
-     
+      - a. Create New variables
+      - b. Label Encoding
+      - c. Numerical Variables to Factors
+      - d. Outliers
+ 3. Skewness and Normalizing Data
+ 
        - a. Scaling Data
        - b. One-hot Encoding
        
 - **IV. Modeling**
 
-    - 1. Regularized Regressions
+1. Regularized Regressions
         - a. Ridge Regression
         - b. Lasso Regression
-    - 2. XGBoost
+2. XGBoost
     
-    - 3. LightGBM
+3. LightGBM
     
-    - 4. Averaging model
+4. Averaging model
 
 - **V. Conclusion**
 - **VI. Reference**
